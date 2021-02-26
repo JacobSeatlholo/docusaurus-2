@@ -20,7 +20,7 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'blog', label: 'MEMBER ZONE', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -65,7 +65,7 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
+              label: 'MEMBER ZONE',
               to: 'blog',
             },
             {
