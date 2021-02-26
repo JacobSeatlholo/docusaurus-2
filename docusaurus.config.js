@@ -17,7 +17,7 @@ module.exports = {
         {
           to: 'https://uahub.org.za/services/',
           activeBasePath: 'home',
-          label: 'Docs',
+          label: 'Home',
           position: 'left',
         },
         {to: 'blog', label: 'MEMBER ZONE', position: 'left'},
