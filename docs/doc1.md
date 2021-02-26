@@ -3,8 +3,9 @@ id: doc1
 title: Style Guide
 sidebar_label: Style Guide
 ---
+Please note that i have uploaded different copy formats for this page until such a time we can decide on which documentations and formats to use  
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+Syntax edits [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 ## Markdown Syntax
 
