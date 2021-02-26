@@ -28,12 +28,12 @@ const features = [
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Integrated Knowledge Centre</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our world is constantly changing due to factors such as global economic upheaval and technological developments. 
+    Our Knowledge centre helps to keep you up to date on matters which impact on sustainability in the Tourism Sector and require insights and knowledge in order to position ourselves to take advantage of opportunities and mitigate risks in our organisation.
       </>
     ),
   },
